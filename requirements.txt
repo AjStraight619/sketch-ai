@@ -1,0 +1,6 @@
+numpy
+torch
+pillow
+ndjson
+tqdm
+matplotlib  # optional, for visualizing sample images
